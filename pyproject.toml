@@ -7,4 +7,6 @@ dependencies = [
     "jupyterlab>=4.5.7",
     "matplotlib>=3.10.9",
     "pandas>=3.0.2",
+    "torch>=2.11.0",
+    "transformers>=5.7.0",
 ]
