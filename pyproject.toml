@@ -3,6 +3,7 @@ name = "ai-playground"
 version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
+    "httpx>=0.28.1",
     "jupyterlab>=4.5.7",
     "matplotlib>=3.10.9",
     "pandas>=3.0.2",
