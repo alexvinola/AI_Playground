@@ -12,3 +12,4 @@ venv/
 .DS_Store
 Thumbs.db
 .idea/
+/notebooks/03_finetuning/lora_output/
